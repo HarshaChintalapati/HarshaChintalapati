@@ -1,5 +1,5 @@
 ### Hi, I'm Harsha 👋
-MS CS at Stony Brook (Dec 2027). Previously a backend engineer at Digit Insurance (Java/Spring Boot, 1M+ members).
+MS CS at Stony Brook (Dec 2027). Previously a backend engineer at Digit Insurance.
 
 **I build distributed systems and AI tooling:**
 - **[NebulaDB](https://github.com/HarshaChintalapati/NebulaDB)**: sharded, Raft-replicated database in Java with an LSM-tree storage engine and a leader-failure chaos test
